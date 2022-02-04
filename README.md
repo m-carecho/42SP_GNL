@@ -25,13 +25,13 @@
 
 # :sparkles: What is Get Next Line?
 
-This is a fucntion to get next line of the text in a archive or other places thats generate a filedescription like the standard input and output.
+This is a function to get the next line of the text in a archive or other places thats generates a filedescription like the standard input and output.
 
 
 # :clipboard: List of Archives
 
-- [`get_next_line`](/get_next_line.c)	- all non-libft functions that's necessary to run the GNL
-- [`get_next_line_utils`](/get_next_line_utils.c)	- all functions from libft that's necessary to run the GNL
+- [`get_next_line`](/get_next_line.c)	- all non-libft functions that are necessary to run the GNL
+- [`get_next_line_utils`](/get_next_line_utils.c)	- all functions from libft that are necessary to run the GNL
 - [`get_next_line header`](/get_next_line.h)		- the header of the GNL
 
 
