@@ -19,11 +19,10 @@
 
 # :pushpin: Index
 
-* [What's this Repo?](#sparkles_What's-Libft-of-42?)
-* [List of Archives](#clipboard_List-of-Archives)
+* [What's this Repo?](#sparkles)
 * [Technologies](#computer_Technologies)
 
-# :sparkles: What's Get Next Line of 42?
+#:sparkles: What's Get Next Line of 42?
 
 This is a fucntion to get next line of the text in a archive or other places thats generate a filedescription like the standard input and output.
 
