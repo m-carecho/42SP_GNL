@@ -1,7 +1,7 @@
 <p align="center">
 
   <a aria-label="Completed" href="https://www.42sp.org.br/">
-    <img src="https://img.shields.io/badge/42SP-LIBFT-682998?logo="></img>
+    <img src="https://img.shields.io/badge/42SP-GNL-682998?logo="></img>
   </a>
 
   <a href="https://github.com/m-carecho/42SP_Libft/commits/main">
